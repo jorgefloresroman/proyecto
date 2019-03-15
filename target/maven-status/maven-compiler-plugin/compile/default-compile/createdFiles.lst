@@ -1,0 +1,12 @@
+com\proyecto\dto\Contact.class
+com\proyecto\api\DeleteMask.class
+com\proyecto\conf\SwaggerConfiguration.class
+com\proyecto\service\ContactService.class
+com\proyecto\security\AuthenticationEntryPoint.class
+com\proyecto\dao\ContactRepository.class
+com\proyecto\api\ContactResponse.class
+com\proyecto\api\ContactsApi.class
+com\proyecto\PrimerProyectoApplication.class
+com\proyecto\security\SpringSecurityConfig.class
+com\proyecto\api\ContactRequest.class
+com\proyecto\conf\DozerMapper.class
